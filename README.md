@@ -29,7 +29,7 @@
 
 <h3 align="center">Algorithm</h3>
 <p align="center">
-<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=smjage522"></img><br>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=smjage522"></img>
+<a href="https://solved.ac/profile/smjage522"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=smjage522"></img></a><br>
+<a href="https://solved.ac/profile/smjage522"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=smjage522"></img></a>
 </p>
 
