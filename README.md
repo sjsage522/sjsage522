@@ -6,10 +6,11 @@
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
+  </a><br>
+  <b>Backend Developer</b>  
 </p>
 
-<br><br><br>
+<br>
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
