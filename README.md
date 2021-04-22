@@ -20,13 +20,14 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     <img src="http://img.shields.io/badge/-PostgreSQL-003366?style=flat&logo=PostgreSQL&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <br>
     <img src="http://img.shields.io/badge/-JavaScript-FFCC00?style=flat&logo=JavaScript&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     <img src="http://img.shields.io/badge/-C-999999?style=flat&logo=C&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </p>
 
-<br><br><br>
+<br>
 
 <h3 align="center">Algorithm</h3>
 <p align="center">
