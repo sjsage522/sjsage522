@@ -9,29 +9,5 @@
   </a><br>
   <b>Backend Developer</b>  
 </p>
-
-<br>
-
-<h3 align="center">Tech Stack</h3>
-<p align="center">
-    <img src="http://img.shields.io/badge/-SpringBoot-green?style=flat&logo=Spring&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <img src="http://img.shields.io/badge/-Java-33CCCC?style=flat&logo=java&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <img src="http://img.shields.io/badge/-PostgreSQL-003366?style=flat&logo=PostgreSQL&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <br>
-    <img src="http://img.shields.io/badge/-JavaScript-FFCC00?style=flat&logo=JavaScript&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <img src="http://img.shields.io/badge/-C-999999?style=flat&logo=C&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</p>
-
-<br>
-
-<h3 align="center">Algorithm</h3>
-<p align="center">
-<a href="https://solved.ac/profile/smjage522"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=smjage522"></img></a><br>
-<a href="https://solved.ac/profile/smjage522"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=smjage522"></img></a>
 </p>
 
