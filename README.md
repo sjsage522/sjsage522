@@ -1,4 +1,4 @@
-<h3>Hi there, I'm Junseok Shin 👋 </h3>
+<h3>Hi there <img src='https://user-images.githubusercontent.com/60972528/230510615-778a3118-648c-446d-aa2b-cc3522541a02.gif'/></h3>
 <div>
 Currently working on web backend (using SpringBoot, CodeIgniter3-4). 
 </div>
