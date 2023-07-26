@@ -1,7 +1,7 @@
 <h3>Hi there <img src='https://user-images.githubusercontent.com/60972528/230510615-778a3118-648c-446d-aa2b-cc3522541a02.gif'/></h3>
 <div>
 <img width="20px" src='https://user-images.githubusercontent.com/60972528/231412207-22fdd9b2-03e2-4f05-918c-f27f03dfa816.gif'/>
-Currently working on web backend (using SpringBoot, CodeIgniter3-4). 
+Currently working on web backend 
 </div>
 <br/>
 
